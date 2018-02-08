@@ -46,12 +46,12 @@ TaeHwan Kim (bluezery) | Shinagawa, 140-0002, Tokyo, Japan
     * Maintained system libraries and daemons
         * Systemd, Network Manager(or Connman), pulseaudio, mesa, commercial drivers, etc.
 * Created essential application frameworks
-    - Participated fully
+    - Contributed fully
         + Text engine (based on freetype2, harfbuzz)
         + Connection engine (based on curl)
         + Viewer engine (based on MagickWand, pixman, libjpeg, libpng, pdf)
         + Utilities (based on expat, json-c, dbus, libudev)
-    - Participated partially
+    - Contributed partially
         - Window manager server/client engine (based on Wayland)
         - Vector engine (based on Cairo, Skia)
         - Video engine (based on Gstreamer, FFmpeg)
