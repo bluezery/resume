@@ -56,7 +56,7 @@ TaeHwan Kim (bluezery) | Shinagawa, 140-0002, Tokyo, Japan
         - Vector engine (based on Cairo, Skia)
         - Video engine (based on Gstreamer, FFmpeg)
         - Sound engine, Browser engine, etc
-* Created main applications for interactive UX (Participated fully)
+* Created main applications for interactive UX (Contributed fully)
     - Basic applications
         + clock, weather, file browser, viewer(images, pdf), video player, keyboard, Status, screen saver, text viewer, usb launcher, etc.
     - Featured applications
