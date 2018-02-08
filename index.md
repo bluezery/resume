@@ -27,7 +27,7 @@ TaeHwan Kim (bluezery) | Shinagawa, 140-0002, Tokyo, Japan
 ## Nomad Freelancer Developer, Oct 2017 ~ Present
 * Developing Web servers/applications
 * Developing iOS applications
-* Developing Machine Learning Softwares
+* Developing Machine Learning Software
 
 ## NEMO-UX, Dec 2014 ~ Oct 2017
 ![nemoux](nemoux.png)
@@ -36,7 +36,7 @@ TaeHwan Kim (bluezery) | Shinagawa, 140-0002, Tokyo, Japan
 * Founding member of NEMO-UX ([github](https://github.com/nemoux/)) start-up compandy in eager
     * Create a futuristic S/W environment (e.g. [link](https://www.youtube.com/watch?v=bsTKwx_VNcU))
     * Create world's first multi-user platform to support multi-input/output.
-* Produced various commerical products (tabletop, wall screen, etc.) (e.g. [link](https://www.youtube.com/watch?v=F-VnCznz7A0))
+* Produced various commercial products (tabletop, wall screen, etc.) (e.g. [link](https://www.youtube.com/watch?v=F-VnCznz7A0))
 * Maintain build and packaging
     * Based on debian, rpm, Yocto, etc.
 * Ported and managed system libraries and daemons
@@ -52,7 +52,7 @@ TaeHwan Kim (bluezery) | Shinagawa, 140-0002, Tokyo, Japan
     - Sound engine, Browser engine, etc.
 * Created main applications for interactive UX
     - Basic applications
-        + clock, weather, file browser, viewer(images, pdf), video player, keyaord, Status, screen saver, text viewer, usb launcher, etc.
+        + clock, weather, file browser, viewer(images, pdf), video player, keyboard, Status, screen saver, text viewer, usb launcher, etc.
     - Featured applications
         + Multiple player, live streamer, Card shell,  Karim Rashid shell, Space shell, etc.
 
