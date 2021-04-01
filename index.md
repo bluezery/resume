@@ -3,16 +3,18 @@ layout: default
 ---
 
 
-# Senior/Lead Software Engineer
-TaeHwan Kim (bluezery) | Shinagawa, 140-0002, Tokyo, Japan
+# Senior Software Engineer
+TaeHwan Kim (bluezery) | Koganei city, 184-0004, Tokyo, Japan
 
 # Interests
-* Machine Learning and Web technologies recently.
+* Data pipeline and full stack engineering
 * Performance profiling and optimization of a software platform or frameworks.
 * Developing graphic engines and interactive applications.
 * DevOps.
 
 # Executive summary
+* Creating a data catalog system to increase the usability of data 
+* Operating ETL pipeline on very large volumne of data.
 * Created and managed a software platform based on the Linux.
 * Developed frameworks/applications and also supported a large number of 3rd party developers.
 * Developed commercial products for various size of devices from tiny screens (Wearable, Mobile) to large/multi screens (TV, tabletop, wall screen).
@@ -24,7 +26,12 @@ TaeHwan Kim (bluezery) | Shinagawa, 140-0002, Tokyo, Japan
 * Short experiences with Javascript, HTML/CSS, PHP, MySQL, PostgresSQL, Yocto, Docker.
 
 # Professional Experiences
-## Nomad Freelancer Developer, Oct 2017 ~ Present
+## Nomad Freelancer Developer, April 2018 ~ Present
+* Developing Data Catalog for Data warehouse (Fullstack engineering, React/Java)
+* Operating ETL pipeline by using Airflow and Azkaban
+* Operating log tracking system like Google firebase
+
+## Nomad Freelancer Developer, Oct 2017 ~ April 2018
 * Developing Web servers/applications
 * Developing iOS applications
 * Developing Machine Learning Software
