@@ -22,8 +22,9 @@ TaeHwan Kim (bluezery) | Koganei city, 184-0004, Tokyo, Japan
 * Conducted performance profiling and optimization on the Linux.
 
 # Technical expertise
-* 10+ years experiences in C, C++, Linux, Shell scripting, REST, GDB, Valgrind, git, gerrit, SVN, JIRA, Phabricator, IRC, mailing lists, Bugzilla, Debian/RPM, TETware, Doxygen, SQLite, etc.
-* Short experiences with Javascript, HTML/CSS, PHP, MySQL, PostgresSQL, Yocto, Docker.
+* 3 yeras experices on Data engineering especially on ETL, Hive, Prsto, Hadoop
+* Full stack sotfware development using ReactJS and Java (+ Docker, Kuerbenetes)
+* 10+ years experiences in C, C++, Linux, Shell scripting, REST, GDB, Valgrind, Git, Gerrit, SVN, JIRA, Phabricator, IRC, mailing lists, Bugzilla, Debian/RPM, TETware, Doxygen, SQLite, etc.
 
 # Professional Experiences
 ## Nomad Freelancer Developer, April 2018 ~ Present
